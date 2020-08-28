@@ -11,14 +11,11 @@ Or just continue here.
 ## Table of Contents
 1. [About the Data](#section1)
 2. [Problem Statement](#section2)
-3. [Applications](#section3)
-4. [Attributes of Data](#section4)
-5. [Pre-Processing Data](#section5)
-6. [Distribution of Data](#section6)
-7. [Algorithms Used](#section7)
-8. [Comparison of Models](#section8)
-9. [ROC Curve Analysis](#section9)
-10. [Python Notebook](#section10)
+3. [Insights wrt to Years](#section3)
+4. [Insights about Type of Customers](#section4)
+5. [Top 1 percentile of Customers](#section5)
+6. [Algorithms Used](#section6)
+7. [Python Notebook](#section7)
 -------
 
 <a id=section1></a>
@@ -53,7 +50,7 @@ Given dataset has **100000 observations**. Below is a table showing names of col
 ![]( https://github.com/somagicc/Statistical-Model-on-MakeMyTrip-Data/blob/master/Images/Count%20plot%20for%20year%20wrt%20to%20app%20status.png)
 
 
-![]( https://github.com/somagicc/Statistical-Model-on-MakeMyTrip-Data/blob/master/Images/Count%20plot%20for%20months.png
+![]( https://github.com/somagicc/Statistical-Model-on-MakeMyTrip-Data/blob/master/Images/Count%20plot%20for%20months.png)
 
 <a id=section4></a>
 ## 4. Insights about Type of Customers 
@@ -63,7 +60,7 @@ Given dataset has **100000 observations**. Below is a table showing names of col
 ![]( https://github.com/somagicc/Statistical-Model-on-MakeMyTrip-Data/blob/master/Images/Donut%20Plot%20showing%20the%20Proportion%20of%20Sync-tag.png)
 
 <a id=section5></a>
-## 5. Top 1 percentile of customers
+## 5. Top 1 percentile of Customers
 ![]( https://github.com/somagicc/Statistical-Model-on-MakeMyTrip-Data/blob/master/Images/Donut%20Plot%20showing%20the%20Proportion%20of%20Tiers%20of%20Top%201%20Percentile%20Users.png)
 
 
